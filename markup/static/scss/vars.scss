@@ -1,0 +1,30 @@
+// File for scss-vars.
+// For example: main colors, paddings and so on.
+$_breakpoints: (
+				   "phone": 400px,
+				   "phone-wide": 480px,
+				   "phablet": 560px,
+				   "tablet-small": 640px,
+				   "tablet": 768px,
+				   "tablet-wide": 1024px,
+				   "desktop": 1248px,
+				   "desktop-wide": 1440px,
+				   //Bootstrap 3.3.7 breakpoints
+				   "xs": 480px, //<480px
+				   "sm": 768px, //>=480px && <768px
+				   "md": 992px, //>=768px && <992px
+				   "lg": 1200px, //>992px && <1200px
+			   );
+
+$_color: (
+			 "main": #148EB5,
+			 "main-darck": #1D6998,
+			 "main-darck-hover":#1A5E89,
+			 "hr":#DCDCDC,
+			 "bg": #F0F2F4,
+			 "text": #FFFFFF,
+			 "text-darck": #444444,
+			 "text-hover": #18AEDE,
+
+
+		 );

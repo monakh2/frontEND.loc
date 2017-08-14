@@ -1,0 +1,20 @@
+{
+  "name": "awesome_project",
+  "description": "Your awesome project description",
+  "main": "gulpfile.js",
+  "authors": [
+    "Konstantin Monastyrskiy <kmonastyrskiy@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "quantity-queries": "^0.4.0"
+  }
+}
